@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ArtemZolin/React-1.4.5-TODO-App.git/static/css/main.af8b5b89.css",
+    "main.js": "/ArtemZolin/React-1.4.5-TODO-App.git/static/js/main.b59a4da2.js",
+    "index.html": "/ArtemZolin/React-1.4.5-TODO-App.git/index.html",
+    "main.af8b5b89.css.map": "/ArtemZolin/React-1.4.5-TODO-App.git/static/css/main.af8b5b89.css.map",
+    "main.b59a4da2.js.map": "/ArtemZolin/React-1.4.5-TODO-App.git/static/js/main.b59a4da2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af8b5b89.css",
+    "static/js/main.b59a4da2.js"
+  ]
+}
